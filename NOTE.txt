@@ -1,0 +1,3 @@
+
+We've decided that this particular implementation isn't worth keeping. We're
+changing it up. So this is a defunct branch that I keep around for comparison.
